@@ -1,0 +1,9 @@
+name: PolyMapMC
+version: ${project.version}
+main: dev.nachwahl.polymap.PolyMap
+authors: [ Nachwahl ]
+website: https://nachwahl.dev
+commands:
+  map:
+  maplink:
+  mapunlink:
